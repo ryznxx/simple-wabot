@@ -1,0 +1,30 @@
+{
+  "name": "simplebot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "whatsapp",
+    "bot",
+    "whatsapp",
+    "bot"
+  ],
+  "author": "ryznxx",
+  "license": "ISC",
+  "dependencies": {
+  "@adiwajshing/baileys": "^3.5.2",
+  "axios": "^0.21.1",
+  "moment-timezone": "^0.5.32",
+  "fluent-ffmpeg": "^2.1.2",
+  "fs-extra": "^9.0.1",
+  "node-fetch": "^2.6.1",
+  "node-gtts": "^2.0.2",
+  "yt-search": "^2.7.6",
+  "g-i-s": "^2.1.6",
+  "node-tesseract-ocr": "^2.0.0"
+  }
+}
