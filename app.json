@@ -2,7 +2,6 @@
   "name": "simple-wabot",
   "description": "whatsapp bot build with nodejs",
   "repository": "https://github.com/ryznxx/simple-wabot",
-  "logo": "https://c.top4top.io/p_2069qnvob1.jpg",
   "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation"]
   "buildpacks": [{
     "url": "https://github.com/DuckyTeam/heroku-buildpack-imagemagick"
